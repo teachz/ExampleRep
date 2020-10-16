@@ -11,4 +11,7 @@ package aaagit;
  */
 public class Ups {
     
+    private int a;
+    private String p;
+    
 }
